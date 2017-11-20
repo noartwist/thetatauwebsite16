@@ -3,14 +3,14 @@
 Welcome to the repo for the Theta Gamma Chapter of Theta Tau's Website. Theta Gamma is located in the University of Michigan. This website is intended to be a landing page for rush candidates to learn about our chapter and fraternity and for Members to conduct certain business functions.
 
 ## Current Webchairs:
-* Jordan Zhu
 * Yuang "Jerry" Meng
-* Brendan Campbell
-* Noah Rucker
+* Narayan Manivannan
+* Franklin Luo
 
 ## Past Webchairs:
-
-
+* Jordan Zhu
+* Brendan Campbell
+* Noah Rucker
 * [Apoorva Gupta](http://www.apoorvagupta.com)
 * [Justin Parus](http://jparus.com)
 * Diego Holt
@@ -25,11 +25,13 @@ Welcome to the repo for the Theta Gamma Chapter of Theta Tau's Website. Theta Ga
 * Google calendar-backed Rush Agenda
 * Login page
 * Chapter stats
+* Corporate Events page
 
 ## Current Bugs:
 
 * Family Tree Issues: Certain Brothers not in big-little database
 * Julian Broggio is entered over Carl Fischer
+* Grammar, typos, etc.
 
 ## In progress:
 * Contact Page
